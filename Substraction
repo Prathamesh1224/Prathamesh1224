@@ -1,0 +1,8 @@
+#include<iostream>
+using namespace std;
+int main(){
+int sub,a=9,b=4;
+sub(a-b);
+cout<<"sub="<<sub;
+return 0;
+}
